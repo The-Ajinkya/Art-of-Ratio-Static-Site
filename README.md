@@ -32,6 +32,10 @@ To view the website, simply open the `index.html` file in your web browser.
 ## Screenshots
 ![image](https://github.com/The-Ajinkya/Art-of-Ratio-Static-Site/assets/120747007/e83b3401-9ec5-46d5-8584-ff75ca016c6e)
 
+![image](https://github.com/The-Ajinkya/Art-of-Ratio-Static-Site/assets/120747007/0feafcb5-0ab0-4454-9592-5b976b58a6e1)
+
+![image](https://github.com/The-Ajinkya/Art-of-Ratio-Static-Site/assets/120747007/878f5609-1edd-4009-977f-c647f416697e)
+
 
 Feel free to contribute to this project by adding more information or improving the design!
 
