@@ -1,41 +1,14 @@
-# Art-of-Ratio-Static-Site
+The main file is "index.html" and the website must be started from there.
 
+Each webpage (apart from the Interactive Content) will have a "GO BACK" at the
+top, from where the user can click and go back to the main menu.
 
-# Art of Ratio Static Site
+Each Interactive Content will have to be opened separately since neither .py
+files, nor .bat files can be used as a href in HTML.
 
-This is a static website project that provides information about various ratios in art and nature.
+Both Interactive content folders, "model_predictions" and "interactive_2"
+have a README.md and a "requirements.txt" file each.
 
-## About
+Please refer to the README files in both Interactive Content folders.
 
-This project explores the following ratios:
-- Arc Ratio: Explanation of the use of arcs in art and design.
-- Attraction Ratio: Information on how attraction ratios influence aesthetics.
-- Divine Ratio: Discussion on the significance of the golden ratio in art and architecture.
-- Nature Ratio: Insights into ratios found in natural phenomena.
-- History behind the Nature Ratio
-- Interactive Ratio
-- Art and Architecture Ratio
-
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-
-## How to Use
-
-To view the website, simply open the `index.html` file in your web browser.
-
-
-
-## Screenshots
-![image](https://github.com/The-Ajinkya/Art-of-Ratio-Static-Site/assets/120747007/e83b3401-9ec5-46d5-8584-ff75ca016c6e)
-
-![image](https://github.com/The-Ajinkya/Art-of-Ratio-Static-Site/assets/120747007/0feafcb5-0ab0-4454-9592-5b976b58a6e1)
-
-![image](https://github.com/The-Ajinkya/Art-of-Ratio-Static-Site/assets/120747007/878f5609-1edd-4009-977f-c647f416697e)
-
-
-Feel free to contribute to this project by adding more information or improving the design!
-
+For more information, please refer to the .pptx file provided
