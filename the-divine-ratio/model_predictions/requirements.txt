@@ -1,0 +1,7 @@
+###### All the libraries are of the latest version ######
+tensorflow
+keras
+easygui
+pytest-shutil
+h5py
+###### All specified libraries can be installed with "pip install -r requirements.txt" ######
